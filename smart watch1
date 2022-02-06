@@ -1,5 +1,8 @@
 // LCD AND ULTRASONIC SENSOR and buzer- FINAL//
 
+//We were inspired by this website https://github.com/SparkBuzzer/Arduino-projects/blob/master/HC-SR04_Ultrasonic_sensor_with_LCD/Ultrasonic_sensor_with_LCD/Ultrasonic_sensor_with_LCD.ino. 
+//However the program didn’t work so we had to add more and fill in the requirements that we needed to achieve. 
+
 // include the library code:
 #include <LiquidCrystal.h>
 
